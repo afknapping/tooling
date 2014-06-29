@@ -16,6 +16,6 @@
 
 ## Terminal
 
-### Git aliases (`sc`)
+### Git aliases (in `~/.gitconfig`)
 
 ### 
